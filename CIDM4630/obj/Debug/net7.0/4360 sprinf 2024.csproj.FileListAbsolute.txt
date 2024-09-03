@@ -1,0 +1,15 @@
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.csproj.AssemblyReference.cache
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.AssemblyInfoInputs.cache
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.AssemblyInfo.cs
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Desktop\4360 sprinf 2024\bin\Debug\net7.0\4360 sprinf 2024.exe
+C:\Users\Hector\Desktop\4360 sprinf 2024\bin\Debug\net7.0\4360 sprinf 2024.deps.json
+C:\Users\Hector\Desktop\4360 sprinf 2024\bin\Debug\net7.0\4360 sprinf 2024.runtimeconfig.json
+C:\Users\Hector\Desktop\4360 sprinf 2024\bin\Debug\net7.0\4360 sprinf 2024.dll
+C:\Users\Hector\Desktop\4360 sprinf 2024\bin\Debug\net7.0\4360 sprinf 2024.pdb
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.dll
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\refint\4360 sprinf 2024.dll
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.pdb
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\4360 sprinf 2024.genruntimeconfig.cache
+C:\Users\Hector\Desktop\4360 sprinf 2024\obj\Debug\net7.0\ref\4360 sprinf 2024.dll
